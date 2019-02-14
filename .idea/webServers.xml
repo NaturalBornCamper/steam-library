@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="d45796dc-502f-467c-851a-e90d12cf8e5d" name="naturalborncamper.com" url="http://ftp.naturalborncamper.com">
+        <fileTransfer host="ftp.naturalborncamper.com" port="21" rootFolder="/public_html/steam">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
